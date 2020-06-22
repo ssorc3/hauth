@@ -1,1 +1,0 @@
-stack ghci --extra-include-dirs=C:\msys64\mingw64\include --extra-lib-dirs=C:\msys64\mingw64\lib
